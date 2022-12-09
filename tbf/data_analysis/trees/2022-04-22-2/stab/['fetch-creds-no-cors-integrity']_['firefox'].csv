@@ -1,0 +1,4 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,firefox,fetch-creds-no-cors-integrity,performanceAPI.smooth,714919,622,0.0008700286326143241
+0,firefox,fetch-creds-no-cors-integrity,events-fired,714919,512,0.0007161650480683826
+1,firefox,fetch-creds-no-cors-integrity,fetch_errormessage,714919,512,0.0007161650480683826

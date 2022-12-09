@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@playwright/test": "1.18.1",
+    "playwright": "1.18.1"
+  },
+  "dependencies": {
+    "node-cleanup": "^2.1.2",
+    "pg": "^8.7.3",
+    "psl": "^1.8.0",
+    "underscore": "^1.13.2"
+  }
+}

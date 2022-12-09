@@ -1,0 +1,24 @@
+win.performanceAPI.smooth,0
+"[{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': ''}, {'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': ''}]",224412
+"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': 'http/1.1'}",82356
+"[{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': 'http/1.1'}, {'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': 'http/1.1'}]",52224
+,0
+load,0
+"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': ''}",0
+"{'location': {'hash': '', 'host': '', 'href': 'about:srcdoc', 'port': '', 'origin': 'null', 'search': '', 'hostname': '', 'pathname': 'srcdoc', 'protocol': 'about:', 'ancestorOrigins': {'0': 'http://localhost:8001'}}}",0
+"{'code': 20, 'name': 'AbortError', 'message': 'Cannot show PaymentRequest UI in a preview page or a background tab.'}",0
+"{'code': 0, 'name': 'UnknownError', 'message': 'Renderer process could not establish or lost IPC connection to the PaymentRequest service in the browser process.'}",0
+uncalled,0
+"rgb(0, 0, 0)",0
+nan,0
+inapplicable,0
+js-undefined,0
+0,0
+http://localhost:8001,0
+does not exist,0
+"[{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': 'http/1.1'}, {'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': 'http/1.1'}, {'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': 'http/1.1'}]",0
+False,0
+>0,0
+931-931,0
+2-2,0
+{},0

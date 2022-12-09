@@ -1,0 +1,1 @@
+{"0": {"observation": "{'location': {'hash': '', 'host': '', 'href': 'about:blank', 'port': '', 'origin': 'null', 'search': '', 'hostname': '', 'pathname': 'blank', 'protocol': 'about:', 'ancestorOrigins': {'0': 'http://localhost:8001'}}}", "count": 329358}, "1": {"observation": "js-null", "count": 29831}}

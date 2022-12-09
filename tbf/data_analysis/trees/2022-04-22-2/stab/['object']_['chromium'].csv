@@ -1,0 +1,8 @@
+,browser,inc_method,observation_method,count,diff,ratio
+4,chromium,object,paymentAPI,718848,33584,0.046719195156695155
+5,chromium,object,performanceAPI.smooth,718848,9742,0.013552239138176637
+2,chromium,object,events-fired,718848,330,0.0004590678418803419
+3,chromium,object,events-fired-all,718848,330,0.0004590678418803419
+6,chromium,object,windowHeight,718848,126,0.00017528044871794872
+0,chromium,object,contentDocument,718848,50,6.955573361823362e-05
+1,chromium,object,el-message,718848,0,0.0

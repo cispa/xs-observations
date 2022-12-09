@@ -1,0 +1,6 @@
+width,events-fired,height,naturalHeight,naturalWidth,events-fired-all,performanceAPI.smooth,0
+20,error,20,0,0,error,uncalled,209557
+20,error,20,0,0,error,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'img', 'nextHopProtocol': 'http/1.1'}",141566
+50,load,50,50,50,load,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'img', 'nextHopProtocol': 'http/1.1'}",5041
+250,load,50,50,250,load,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'img', 'nextHopProtocol': 'http/1.1'}",1513
+100,load,100,100,100,load,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'img', 'nextHopProtocol': 'http/1.1'}",1511

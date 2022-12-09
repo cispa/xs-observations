@@ -1,0 +1,6 @@
+,browser,inc_method,observation_method,count,diff,ratio
+4,firefox,embed,performanceAPI.smooth,716930,5925,0.00826440517205306
+1,firefox,embed,el-securitypolicyviolation.smooth,716930,634,0.0008843262243175763
+2,firefox,embed,events-fired,716930,300,0.0004184508947874967
+3,firefox,embed,events-fired-all,716930,300,0.0004184508947874967
+0,firefox,embed,el-message,716930,0,0.0

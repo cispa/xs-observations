@@ -1,0 +1,9 @@
+,browser,inc_method,observation_method,count,diff,ratio
+1,firefox,window.open,el-blur,718848,7376,0.010260861823361823
+0,firefox,window.open,CSS2Properties,718848,1210,0.0016832487535612536
+5,firefox,window.open,origin,718848,1210,0.0016832487535612536
+6,firefox,window.open,win.performanceAPI.smooth,718848,1210,0.0016832487535612536
+7,firefox,window.open,window.name,718848,1210,0.0016832487535612536
+4,firefox,window.open,opener,718848,220,0.0003060452279202279
+3,firefox,window.open,length,718848,12,1.669337606837607e-05
+2,firefox,window.open,el-message,718848,4,5.56445868945869e-06

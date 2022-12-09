@@ -1,0 +1,9 @@
+,browser,inc_method,observation_method,count,diff,ratio
+7,webkit,img,windowHeight,718922,35510,0.04939339733656781
+2,webkit,img,height,718922,464,0.0006454107677884389
+6,webkit,img,width,718922,464,0.0006454107677884389
+0,webkit,img,events-fired,718922,444,0.0006175913381423854
+1,webkit,img,events-fired-all,718922,444,0.0006175913381423854
+5,webkit,img,performanceAPI.smooth,718922,252,0.0003505248135402728
+3,webkit,img,naturalHeight,718922,24,3.3383315575264077e-05
+4,webkit,img,naturalWidth,718922,24,3.3383315575264077e-05

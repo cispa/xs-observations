@@ -1,0 +1,5 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,chromium,embed-img,paymentAPI,718848,39556,0.05502693198005698
+3,chromium,embed-img,performanceAPI.smooth,718848,160,0.00022257834757834758
+0,chromium,embed-img,events-fired,718848,96,0.00013354700854700856
+1,chromium,embed-img,events-fired-all,718848,96,0.00013354700854700856

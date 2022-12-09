@@ -1,0 +1,68 @@
+{% load responses_templates %}
+<html>
+<head>
+    {% if meta_refresh %}
+        <meta http-equiv="refresh" content="{{ meta_refresh }}">
+    {% endif %}
+</head>
+<body> 
+    {% if num_frames %}
+    {% for _ in num_frames|times %}
+        <iframe></iframe>
+    {% endfor %}
+    {% endif %}
+
+    {% if input_id %}
+        <div id="container" style="height: 3000px; width: 1000px;"></div>
+        <input id="{{ input_id }}"></input>
+    {% endif %}
+
+    {% if post_message %}
+        <script>
+            try {
+                window.opener.postMessage("{{ post_message }}", "*");
+            } catch (e) {
+            }
+            try {
+                window.parent.postMessage("{{ post_message }}", "*");
+            } catch {
+                
+            }
+        </script>
+    {% endif %}
+
+    {% if paymentAPI %}
+        <script>
+            function buildSupportedPaymentMethodData() {
+              // Example supported payment methods:
+              return [{
+                supportedMethods: "basic-card"
+              }];
+            }
+            function buildShoppingCartDetails() {
+              // Hardcoded for demo purposes:
+              return {
+                id: 'order-123',
+                displayItems: [
+                  {
+                    label: 'Example item',
+                    amount: {currency: 'USD', value: '1.00'}
+                  }
+                ],
+                total: {
+                  label: 'Total',
+                  amount: {currency: 'USD', value: '1.00'}
+                }
+              };
+            }
+            try {
+                let request = new PaymentRequest(buildSupportedPaymentMethodData(),
+                    buildShoppingCartDetails());
+                request.show()
+            } catch (e) {
+            }
+        </script>
+    {% endif %}
+</body>
+
+</html>

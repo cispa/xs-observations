@@ -1,0 +1,11 @@
+,browser,inc_method,observation_method,count,diff,ratio
+6,chromium,video,paymentAPI,718848,40724,0.056651753917378915
+2,chromium,video,error,718848,344,0.0004785434472934473
+5,chromium,video,networkState,718848,344,0.0004785434472934473
+3,chromium,video,events-fired,718848,302,0.00042011663105413104
+4,chromium,video,events-fired-all,718848,302,0.00042011663105413104
+7,chromium,video,performanceAPI.smooth,718848,288,0.00040064102564102563
+0,chromium,video,buffered,718848,2,2.782229344729345e-06
+1,chromium,video,duration,718848,2,2.782229344729345e-06
+8,chromium,video,readyState,718848,2,2.782229344729345e-06
+9,chromium,video,seekable,718848,2,2.782229344729345e-06

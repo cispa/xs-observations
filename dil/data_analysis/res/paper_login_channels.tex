@@ -1,0 +1,28 @@
+\begin{tabular}{llrrrr}
+\toprule
+ &  & \multicolumn{4}{c}{Vulnerable sites} \\
+ &  & Both & Only Chromium & Only Firefox & Sum \\
+Inclusion Method & Observation Method &  &  &  &  \\
+\midrule
+window.open & length & 53 & 3 & 5 & 61 \\
+fetch-creds-cors & performanceAPI & 1 & 0 & 26 & 27 \\
+\multirow[c]{7}{*}{iframe-csp} & el-securitypolicyviolation & 19 & 1 & 0 & 20 \\
+ & window.name & 1 & 0 & 17 & 18 \\
+ & CSS2Properties & 1 & 0 & 17 & 18 \\
+ & contentDocument & 1 & 0 & 17 & 18 \\
+ & origin & 1 & 0 & 17 & 18 \\
+ & win.performanceAPI & 1 & 0 & 17 & 18 \\
+ & events-fired & 2 & 0 & 15 & 17 \\
+fetch-creds-cors-integrity & performanceAPI & 1 & 0 & 16 & 17 \\
+object & performanceAPI & 5 & 8 & 2 & 15 \\
+iframe-csp & length & 6 & 2 & 4 & 12 \\
+iframe & length & 6 & 3 & 3 & 12 \\
+script & events-fired & 1 & 7 & 3 & 11 \\
+object & events-fired & 7 & 1 & 2 & 10 \\
+link-prefetch & performanceAPI & 5 & 3 & 2 & 10 \\
+script & performanceAPI & 6 & 2 & 1 & 9 \\
+link-stylesheet & events-fired & 0 & 6 & 2 & 8 \\
+embed-img & performanceAPI & 3 & 3 & 1 & 7 \\
+embed & events-fired & 1 & 1 & 5 & 7 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,8 @@
+,browser,inc_method,observation_method,count,diff,ratio
+5,firefox,img,performanceAPI.smooth,715963,4572,0.006385804853044082
+2,firefox,img,height,715963,4570,0.006383011412600931
+6,firefox,img,width,715963,4570,0.006383011412600931
+0,firefox,img,events-fired,715963,3738,0.0052209401882499515
+1,firefox,img,events-fired-all,715963,3738,0.0052209401882499515
+3,firefox,img,naturalHeight,715963,72,0.0001005638559534501
+4,firefox,img,naturalWidth,715963,72,0.0001005638559534501

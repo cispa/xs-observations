@@ -1,0 +1,6 @@
+el-message,events-fired,events-fired-all,performanceAPI.smooth,0
+uncalled,load,load,uncalled,230652
+uncalled,uncalled,nan,uncalled,104781
+uncalled,load,load,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'embed', 'nextHopProtocol': 'http/1.1'}",22824
+uncalled,"['load', 'load']","['load', 'load']","{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'embed', 'nextHopProtocol': 'http/1.1'}",670
+"Origin: https://127.0.0.1:44300, Message: mes1",load,load,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'embed', 'nextHopProtocol': 'http/1.1'}",337

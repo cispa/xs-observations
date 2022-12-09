@@ -1,0 +1,5 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,chromium,fetch-creds-cors-integrity,paymentAPI,718848,40524,0.056373530982905984
+3,chromium,fetch-creds-cors-integrity,performanceAPI.smooth,718848,282,0.0003922943376068376
+0,chromium,fetch-creds-cors-integrity,events-fired,718848,184,0.0002559650997150997
+1,chromium,fetch-creds-cors-integrity,fetch_errormessage,718848,184,0.0002559650997150997

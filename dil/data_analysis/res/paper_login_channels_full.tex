@@ -1,0 +1,88 @@
+\begin{tabular}{llrrrr}
+\toprule
+ &  & \multicolumn{4}{c}{Vulnerable sites} \\
+ &  & Both & Only Chromium & Only Firefox & Sum \\
+Inclusion Method & Observation Method &  &  &  &  \\
+\midrule
+window.open & length & 53 & 3 & 5 & 61 \\
+fetch-creds-cors & performanceAPI & 1 & 0 & 26 & 27 \\
+\multirow[c]{7}{*}{iframe-csp} & el-securitypolicyviolation & 19 & 1 & 0 & 20 \\
+ & window.name & 1 & 0 & 17 & 18 \\
+ & CSS2Properties & 1 & 0 & 17 & 18 \\
+ & contentDocument & 1 & 0 & 17 & 18 \\
+ & origin & 1 & 0 & 17 & 18 \\
+ & win.performanceAPI & 1 & 0 & 17 & 18 \\
+ & events-fired & 2 & 0 & 15 & 17 \\
+fetch-creds-cors-integrity & performanceAPI & 1 & 0 & 16 & 17 \\
+object & performanceAPI & 5 & 8 & 2 & 15 \\
+iframe-csp & length & 6 & 2 & 4 & 12 \\
+iframe & length & 6 & 3 & 3 & 12 \\
+script & events-fired & 1 & 7 & 3 & 11 \\
+object & events-fired & 7 & 1 & 2 & 10 \\
+link-prefetch & performanceAPI & 5 & 3 & 2 & 10 \\
+script & performanceAPI & 6 & 2 & 1 & 9 \\
+link-stylesheet & events-fired & 0 & 6 & 2 & 8 \\
+embed-img & performanceAPI & 3 & 3 & 1 & 7 \\
+embed & events-fired & 1 & 1 & 5 & 7 \\
+\multirow[c]{2}{*}{iframe} & el-blur & 0 & 6 & 1 & 7 \\
+ & el-message & 5 & 1 & 1 & 7 \\
+iframe-csp & el-message & 7 & 0 & 0 & 7 \\
+object & contentDocument & 0 & 7 & 0 & 7 \\
+iframe-csp & el-blur & 0 & 6 & 0 & 6 \\
+window.open & windowHeight & 0 & 0 & 6 & 6 \\
+embed-img & events-fired & 1 & 1 & 4 & 6 \\
+iframe-dircsp & performanceAPI & 0 & 0 & 5 & 5 \\
+object & el-blur & 0 & 5 & 0 & 5 \\
+embed & performanceAPI & 2 & 0 & 3 & 5 \\
+double-script & win.performanceAPI & 0 & 4 & 0 & 4 \\
+style-import & win.performanceAPI & 0 & 4 & 0 & 4 \\
+script & el-error & 0 & 0 & 4 & 4 \\
+embed & el-blur & 1 & 3 & 0 & 4 \\
+link-stylesheet & performanceAPI & 3 & 1 & 0 & 4 \\
+window.open & el-message & 3 & 0 & 1 & 4 \\
+iframe & events-fired & 1 & 1 & 2 & 4 \\
+window.open & CSS2Properties & 1 & 2 & 0 & 3 \\
+object & el-message & 0 & 3 & 0 & 3 \\
+\multirow[c]{3}{*}{window.open} & window.name & 1 & 2 & 0 & 3 \\
+ & win.performanceAPI & 1 & 2 & 0 & 3 \\
+ & origin & 1 & 2 & 0 & 3 \\
+iframe-dircsp & length & 0 & 0 & 3 & 3 \\
+fetch-creds-no-cors & performanceAPI & 3 & 0 & 0 & 3 \\
+\multirow[c]{2}{*}{iframe-dircsp} & el-securitypolicyviolation & 0 & 0 & 3 & 3 \\
+ & events-fired & 0 & 0 & 3 & 3 \\
+object & el-securitypolicyviolation & 0 & 0 & 2 & 2 \\
+window.open & opener & 0 & 2 & 0 & 2 \\
+embed & el-message & 0 & 1 & 1 & 2 \\
+link-prefetch & events-fired & 0 & 2 & 0 & 2 \\
+\multirow[c]{2}{*}{embed} & el-securitypolicyviolation & 0 & 0 & 2 & 2 \\
+ & history.length & 1 & 1 & 0 & 2 \\
+\multirow[c]{3}{*}{iframe} & performanceAPI & 0 & 2 & 0 & 2 \\
+ & history.length & 1 & 1 & 0 & 2 \\
+ & el-securitypolicyviolation & 0 & 0 & 2 & 2 \\
+iframe-csp & performanceAPI & 0 & 2 & 0 & 2 \\
+iframe-dircsp & el-message & 0 & 0 & 2 & 2 \\
+iframe & win.performanceAPI & 1 & 0 & 0 & 1 \\
+iframe-dircsp & contentDocument & 0 & 0 & 1 & 1 \\
+\multirow[c]{4}{*}{iframe} & window.name & 1 & 0 & 0 & 1 \\
+ & origin & 1 & 0 & 0 & 1 \\
+ & contentDocument & 1 & 0 & 0 & 1 \\
+ & CSS2Properties & 1 & 0 & 0 & 1 \\
+iframe-csp & history.length & 0 & 1 & 0 & 1 \\
+\multirow[c]{2}{*}{fetch-creds-cors} & fetch-response & 1 & 0 & 0 & 1 \\
+ & fetch_errormessage & 1 & 0 & 0 & 1 \\
+iframe-dircsp & CSS2Properties & 0 & 0 & 1 & 1 \\
+object & history.length & 0 & 0 & 1 & 1 \\
+img & naturalHeight & 0 & 0 & 1 & 1 \\
+embed-img & el-securitypolicyviolation & 0 & 0 & 1 & 1 \\
+\multirow[c]{4}{*}{iframe-dircsp} & history.length & 0 & 0 & 1 & 1 \\
+ & origin & 0 & 0 & 1 & 1 \\
+ & win.performanceAPI & 0 & 0 & 1 & 1 \\
+ & window.name & 0 & 0 & 1 & 1 \\
+embed-img & history.length & 0 & 0 & 1 & 1 \\
+fetch-creds-cors & events-fired & 1 & 0 & 0 & 1 \\
+\multirow[c]{4}{*}{img} & events-fired & 0 & 0 & 1 & 1 \\
+ & width & 0 & 0 & 1 & 1 \\
+ & naturalWidth & 0 & 0 & 1 & 1 \\
+ & height & 0 & 0 & 1 & 1 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,5 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,chromium,style-import,paymentAPI,718848,36126,0.05025540865384615
+3,chromium,style-import,win.performanceAPI.smooth,718848,6956,0.00967659366096866
+0,chromium,style-import,events-fired,718848,810,0.0011268028846153845
+1,chromium,style-import,events-fired-all,718848,810,0.0011268028846153845

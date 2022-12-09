@@ -1,0 +1,5 @@
+,browser,inc_method,observation_method,count,diff,ratio
+3,webkit,fetch-creds-no-cors-integrity,windowHeight,718678,35516,0.04941851566348211
+0,webkit,fetch-creds-no-cors-integrity,events-fired,718678,378,0.0005259657315237144
+1,webkit,fetch-creds-no-cors-integrity,fetch_errormessage,718678,378,0.0005259657315237144
+2,webkit,fetch-creds-no-cors-integrity,performanceAPI.smooth,718678,234,0.0003255978338003946

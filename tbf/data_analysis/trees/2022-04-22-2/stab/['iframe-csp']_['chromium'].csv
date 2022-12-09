@@ -1,0 +1,14 @@
+,browser,inc_method,observation_method,count,diff,ratio
+8,chromium,iframe-csp,paymentAPI,718848,34208,0.047587250712250714
+4,chromium,iframe-csp,events-fired,718848,1922,0.0026737224002849
+5,chromium,iframe-csp,events-fired-all,718848,1922,0.0026737224002849
+1,chromium,iframe-csp,contentDocument,718848,1864,0.0025930377492877493
+0,chromium,iframe-csp,CSS2Properties,718848,1862,0.00259025551994302
+7,chromium,iframe-csp,origin,718848,1862,0.00259025551994302
+10,chromium,iframe-csp,win.performanceAPI.smooth,718848,1862,0.00259025551994302
+11,chromium,iframe-csp,window.name,718848,1862,0.00259025551994302
+9,chromium,iframe-csp,performanceAPI.smooth,718848,1840,0.0025596509971509973
+12,chromium,iframe-csp,windowHeight,718848,80,0.00011128917378917379
+6,chromium,iframe-csp,length,718848,60,8.346688034188034e-05
+3,chromium,iframe-csp,el-securitypolicyviolation.smooth,718848,6,8.346688034188035e-06
+2,chromium,iframe-csp,el-message,718848,4,5.56445868945869e-06

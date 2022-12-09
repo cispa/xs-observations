@@ -1,0 +1,7 @@
+,browser,inc_method,observation_method,count,diff,ratio
+5,webkit,link-stylesheet,windowHeight,718927,35560,0.049462601905339486
+4,webkit,link-stylesheet,sheet,718927,302,0.0004200704661252116
+0,webkit,link-stylesheet,events-fired,718927,282,0.000392251229957979
+1,webkit,link-stylesheet,events-fired-all,718927,282,0.000392251229957979
+3,webkit,link-stylesheet,performanceAPI.smooth,718927,134,0.00018638888232045813
+2,webkit,link-stylesheet,getComputedStyle,718927,4,5.563847233446511e-06

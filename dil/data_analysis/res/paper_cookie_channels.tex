@@ -1,0 +1,28 @@
+\begin{tabular}{llrr}
+\toprule
+ &  & \multicolumn{2}{c}{Vulnerable sites} \\
+ &  & History & Acceptance & Only Acceptance \\
+Inclusion Method & Observation Method &  &  \\
+\midrule
+window.open & length & 247 & 665 \\
+\multirow[c]{2}{*}{iframe-csp} & el-securitypolicyviolation & 13 & 182 \\
+ & length & 47 & 81 \\
+\multirow[c]{2}{*}{iframe} & length & 43 & 80 \\
+ & el-blur & 4 & 52 \\
+iframe-csp & el-blur & 1 & 52 \\
+iframe & el-message & 6 & 35 \\
+iframe-csp & el-message & 5 & 33 \\
+window.open & el-message & 4 & 28 \\
+embed & el-blur & 0 & 32 \\
+object & el-blur & 0 & 29 \\
+link-stylesheet & events-fired & 16 & 12 \\
+embed & el-message & 1 & 17 \\
+script & events-fired & 13 & 5 \\
+\multirow[c]{4}{*}{window.open} & origin & 12 & 1 \\
+ & CSS2Properties & 12 & 1 \\
+ & win.performanceAPI & 12 & 1 \\
+ & window.name & 12 & 1 \\
+iframe-csp & events-fired & 8 & 3 \\
+object & performanceAPI & 5 & 6 \\
+\bottomrule
+\end{tabular}

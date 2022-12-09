@@ -1,0 +1,7 @@
+el-message,events-fired,windowHeight,events-fired-all,performanceAPI.smooth,0
+uncalled,load,931-931,load,"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'embed', 'nextHopProtocol': ''}",274220
+uncalled,uncalled,931-872,nan,uncalled,45163
+uncalled,uncalled,931-931,nan,uncalled,29909
+uncalled,load,931-931,load,uncalled,8532
+uncalled,"['load', 'load']",931-931,"['load', 'load']","{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'embed', 'nextHopProtocol': ''}",493
+"Origin: https://127.0.0.1:44300, Message: mes1",load,931-931,load,"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'embed', 'nextHopProtocol': ''}",249

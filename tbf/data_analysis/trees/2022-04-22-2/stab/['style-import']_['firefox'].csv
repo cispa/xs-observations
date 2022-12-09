@@ -1,0 +1,4 @@
+,browser,inc_method,observation_method,count,diff,ratio
+0,firefox,style-import,events-fired,716938,5746,0.008014640038608639
+1,firefox,style-import,events-fired-all,716938,5746,0.008014640038608639
+2,firefox,style-import,win.performanceAPI.smooth,716938,5716,0.007972795416061083

@@ -1,0 +1,8 @@
+,browser,inc_method,observation_method,count,diff,ratio
+6,webkit,window.open,windowHeight,718668,35452,0.04933014966577057
+0,webkit,window.open,CSS2Properties,718668,1300,0.0018089020243005115
+3,webkit,window.open,origin,718668,1300,0.0018089020243005115
+4,webkit,window.open,win.performanceAPI.smooth,718668,1300,0.0018089020243005115
+5,webkit,window.open,window.name,718668,1300,0.0018089020243005115
+2,webkit,window.open,length,718668,46,6.40073023983258e-05
+1,webkit,window.open,el-message,718668,14,1.9480483338620893e-05

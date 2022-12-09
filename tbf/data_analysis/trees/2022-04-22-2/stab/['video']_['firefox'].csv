@@ -1,0 +1,12 @@
+,browser,inc_method,observation_method,count,diff,ratio
+4,firefox,video,events-fired-all,714918,17617,0.02464198691318445
+3,firefox,video,events-fired,714918,13199,0.01846225720991778
+6,firefox,video,performanceAPI.smooth,714918,7487,0.010472529716694781
+5,firefox,video,networkState,714918,6727,0.009409470736504047
+2,firefox,video,error,714918,6699,0.009370305405654915
+7,firefox,video,readyState,714918,163,0.00022799817601459188
+0,firefox,video,buffered,714918,30,4.196285448121323e-05
+1,firefox,video,duration,714918,30,4.196285448121323e-05
+8,firefox,video,seekable,714918,30,4.196285448121323e-05
+9,firefox,video,videoHeight,714918,18,2.5177712688727938e-05
+10,firefox,video,videoWidth,714918,18,2.5177712688727938e-05

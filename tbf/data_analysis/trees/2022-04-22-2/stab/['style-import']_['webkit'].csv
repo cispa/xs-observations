@@ -1,0 +1,5 @@
+,browser,inc_method,observation_method,count,diff,ratio
+3,webkit,style-import,windowHeight,718668,35538,0.04944981549199352
+1,webkit,style-import,events-fired-all,718668,262,0.00036456333105133385
+0,webkit,style-import,events-fired,718668,260,0.0003617804048601023
+2,webkit,style-import,win.performanceAPI.smooth,718668,144,0.00020037068576867205

@@ -1,0 +1,13 @@
+,browser,inc_method,observation_method,count,diff,ratio
+11,webkit,video,windowHeight,718916,35504,0.04938546367030362
+6,webkit,video,performanceAPI.smooth,718916,690,0.0009597783329345848
+2,webkit,video,error,718916,348,0.0004840621157409211
+4,webkit,video,events-fired-all,718916,348,0.0004840621157409211
+5,webkit,video,networkState,718916,348,0.0004840621157409211
+3,webkit,video,events-fired,718916,346,0.000481280149558502
+0,webkit,video,buffered,718916,0,0.0
+1,webkit,video,duration,718916,0,0.0
+7,webkit,video,readyState,718916,0,0.0
+8,webkit,video,seekable,718916,0,0.0
+9,webkit,video,videoHeight,718916,0,0.0
+10,webkit,video,videoWidth,718916,0,0.0

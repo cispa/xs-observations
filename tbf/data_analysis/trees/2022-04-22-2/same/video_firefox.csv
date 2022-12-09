@@ -1,0 +1,5 @@
+videoHeight,readyState,videoWidth,seekable,duration,error,networkState,buffered,0
+0,0,0,{'length': 0},js-NaN,"{'code': 4, 'message': 'Failed to open media'}",3,{'length': 0},345489
+0,0,0,{'length': 0},js-NaN,js-null,2,{'length': 0},3977
+0,4,0,{'length': 1},1,js-null,1,{'length': 1},2264
+100,4,100,{'length': 1},2,js-null,1,{'length': 1},2262

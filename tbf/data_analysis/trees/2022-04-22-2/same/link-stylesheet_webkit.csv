@@ -1,0 +1,6 @@
+getComputedStyle,events-fired,events-fired-all,performanceAPI.smooth,0
+"rgb(0, 0, 0)",error,error,uncalled,209580
+"rgb(0, 0, 0)",error,error,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': 'http/1.1'}",59996
+"rgb(0, 0, 0)",error,error,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': ''}",44928
+"rgb(0, 0, 0)",load,load,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': 'http/1.1'}",43903
+"rgb(0, 0, 255)",load,load,"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': 'http/1.1'}",864

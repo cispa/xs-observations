@@ -1,0 +1,11 @@
+,browser,inc_method,observation_method,count,diff,ratio
+9,webkit,audio,windowHeight,718754,35466,0.0493437253914413
+6,webkit,audio,performanceAPI.smooth,718754,808,0.0011241676568060838
+3,webkit,audio,events-fired,718754,418,0.0005815619808724543
+4,webkit,audio,events-fired-all,718754,418,0.0005815619808724543
+2,webkit,audio,error,718754,404,0.0005620838284030419
+5,webkit,audio,networkState,718754,404,0.0005620838284030419
+0,webkit,audio,buffered,718754,0,0.0
+1,webkit,audio,duration,718754,0,0.0
+7,webkit,audio,readyState,718754,0,0.0
+8,webkit,audio,seekable,718754,0,0.0

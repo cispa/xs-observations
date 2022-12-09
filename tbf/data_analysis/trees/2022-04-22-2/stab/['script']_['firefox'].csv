@@ -1,0 +1,6 @@
+,browser,inc_method,observation_method,count,diff,ratio
+4,firefox,script,performanceAPI.smooth,716446,7367,0.010282700999098327
+1,firefox,script,events-fired,716446,5785,0.008074579242538866
+2,firefox,script,events-fired-all,716446,5785,0.008074579242538866
+0,firefox,script,el-error,716446,54,7.537204478774394e-05
+3,firefox,script,hasOwnProperty-a,716446,6,8.37467164308266e-06

@@ -1,0 +1,23 @@
+win.performanceAPI.smooth,0
+uncalled,209552
+"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': 'http/1.1'}",104631
+"{'size': {'transferSize': None, 'decodedBodySize': None, 'encodedBodySize': None}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'script', 'nextHopProtocol': ''}",44928
+,0
+"{'location': {'hash': '', 'host': '', 'href': 'about:srcdoc', 'port': '', 'origin': 'null', 'search': '', 'hostname': '', 'pathname': 'srcdoc', 'protocol': 'about:', 'ancestorOrigins': {'0': 'http://localhost:8001'}}}",0
+"rgb(0, 0, 0)",0
+nan,0
+load,0
+js-undefined,0
+http://localhost:8001,0
+does not exist,0
+0,0
+Can't find variable: PaymentRequest,0
+>0,0
+750-750,0
+748-748,0
+746-746,0
+745-745,0
+742-742,0
+2-2,0
+1271-1271,0
+False,0

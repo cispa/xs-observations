@@ -1,0 +1,6 @@
+,browser,inc_method,observation_method,count,diff,ratio
+3,firefox,link-stylesheet,performanceAPI.smooth,714809,5563,0.007782498541568447
+4,firefox,link-stylesheet,sheet,714809,5563,0.007782498541568447
+0,firefox,link-stylesheet,events-fired,714809,4511,0.006310776724971286
+1,firefox,link-stylesheet,events-fired-all,714809,4511,0.006310776724971286
+2,firefox,link-stylesheet,getComputedStyle,714809,0,0.0

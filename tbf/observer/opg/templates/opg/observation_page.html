@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% load opg_templates %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button id="manual_button">Record and show data</button>
+
+
+{% load static %}
+<script src="{% static 'opg/helper.js'%}"></script>
+<script src="{% static 'opg/inclusion_methods.js'%}"></script>
+<script src="{% static 'opg/observation_methods.js'%}"></script>
+<script>
+    let url = "{{ test_url | safe | remove_tags }}";
+    store_data("url", url);
+    let echo_base = "{{ echo_base }}";
+    let inc_method = "{{ inc_method }}";
+    before_obs();
+    define_incs(url, inc_method, echo_base);
+    between_obs();
+    instantiate_incs(url, inc_method, echo_base);
+    let waitElem = document.createElement("div");
+    waitElem.id = "randomWaitElemId01234";
+    document.body.appendChild(waitElem);
+
+    let button = document.getElementById("manual_button");
+    button.addEventListener("click", async (e) => {
+       await manual_observation();
+    });
+</script>
+
+</body>
+</html>

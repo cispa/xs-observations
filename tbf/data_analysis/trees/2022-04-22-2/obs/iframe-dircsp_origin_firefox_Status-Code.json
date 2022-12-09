@@ -1,0 +1,1 @@
+{"0": {"observation": "{'code': 18, 'data': None, 'name': 'SecurityError', 'result': 2152923154, 'message': 'Permission denied to access property origin on cross-origin object'}", "count": 217468}, "1": {"observation": "http://localhost:8001", "count": 137064}}

@@ -1,0 +1,5 @@
+win.performanceAPI.smooth,events-fired,events-fired-all,0
+"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': 'http/1.1'}",load,load,325124
+"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': ''}",load,load,29945
+uncalled,uncalled,nan,233
+uncalled,load,load,2

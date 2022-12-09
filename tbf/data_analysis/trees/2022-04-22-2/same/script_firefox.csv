@@ -1,0 +1,6 @@
+events-fired,hasOwnProperty-a,el-error,events-fired-all,0
+error,does not exist,uncalled,error,288925
+load,does not exist,uncalled,"['beforescriptexecute', 'afterscriptexecute', 'load']",55978
+load,does not exist,[object ErrorEvent]-undefined-undefined,"['beforescriptexecute', 'afterscriptexecute', 'load']",9477
+load,a=5,uncalled,"['beforescriptexecute', 'afterscriptexecute', 'load']",861
+uncalled,does not exist,uncalled,nan,56

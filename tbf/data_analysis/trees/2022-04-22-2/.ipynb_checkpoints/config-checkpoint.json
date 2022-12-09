@@ -1,0 +1,1 @@
+{"h2o_jar": "/data/xsleaker/xsleaker/h2o-3.32.1.3/h2o.jar", "base_dir": "/data/data/tbf/data_analysis/trees/2022-04-22-2", "ntrees": 1, "max_depth": 0, "min_rows": 8, "stopping_rounds": 2, "stopping_metric": "auto", "seed": 42, "mtries": -2, "sample_rate": 1, "min_split_improvement": 0.005, "binomial_double_trees": true, "score_each_iteration": true, "score_tree_interval": 1}

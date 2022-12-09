@@ -1,0 +1,12 @@
+,browser,inc_method,observation_method,count,diff,ratio
+8,firefox,iframe-dircsp,performanceAPI.smooth,714967,4692,0.006562540648729242
+4,firefox,iframe-dircsp,events-fired,714967,3868,0.005410039903939622
+5,firefox,iframe-dircsp,events-fired-all,714967,3868,0.005410039903939622
+1,firefox,iframe-dircsp,contentDocument,714967,2080,0.002909225181022341
+0,firefox,iframe-dircsp,CSS2Properties,714967,2054,0.0028728598662595617
+7,firefox,iframe-dircsp,origin,714967,2054,0.0028728598662595617
+9,firefox,iframe-dircsp,win.performanceAPI.smooth,714967,2054,0.0028728598662595617
+10,firefox,iframe-dircsp,window.name,714967,2054,0.0028728598662595617
+3,firefox,iframe-dircsp,el-securitypolicyviolation.smooth,714967,206,0.0002881251861974049
+6,firefox,iframe-dircsp,length,714967,12,1.6783991428975045e-05
+2,firefox,iframe-dircsp,el-message,714967,2,2.797331904829174e-06

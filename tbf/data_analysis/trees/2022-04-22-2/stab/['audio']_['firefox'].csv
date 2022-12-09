@@ -1,0 +1,10 @@
+,browser,inc_method,observation_method,count,diff,ratio
+4,firefox,audio,events-fired-all,714269,18365,0.025711601651478646
+3,firefox,audio,events-fired,714269,13987,0.019582258224842462
+6,firefox,audio,performanceAPI.smooth,714269,7799,0.010918855501218728
+5,firefox,audio,networkState,714269,7101,0.00994163263420364
+2,firefox,audio,error,714269,7073,0.009902431716902176
+7,firefox,audio,readyState,714269,100,0.00014000327607666018
+0,firefox,audio,buffered,714269,30,4.200098282299806e-05
+1,firefox,audio,duration,714269,30,4.200098282299806e-05
+8,firefox,audio,seekable,714269,30,4.200098282299806e-05

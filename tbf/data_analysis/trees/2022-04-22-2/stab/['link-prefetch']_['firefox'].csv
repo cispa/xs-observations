@@ -1,0 +1,4 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,firefox,link-prefetch,performanceAPI.smooth,716896,3246,0.004527853412489399
+0,firefox,link-prefetch,events-fired,716896,2394,0.003339396509396063
+1,firefox,link-prefetch,events-fired-all,716896,2394,0.003339396509396063

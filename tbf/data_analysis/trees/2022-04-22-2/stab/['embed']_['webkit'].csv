@@ -1,0 +1,6 @@
+,browser,inc_method,observation_method,count,diff,ratio
+4,webkit,embed,windowHeight,718738,35552,0.04946447801563296
+1,webkit,embed,events-fired,718738,210,0.00029217879115894807
+2,webkit,embed,events-fired-all,718738,210,0.00029217879115894807
+3,webkit,embed,performanceAPI.smooth,718738,24,3.339186184673692e-05
+0,webkit,embed,el-message,718738,0,0.0

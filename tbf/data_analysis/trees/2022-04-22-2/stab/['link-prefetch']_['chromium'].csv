@@ -1,0 +1,5 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,chromium,link-prefetch,paymentAPI,718848,42142,0.05862435452279202
+3,chromium,link-prefetch,performanceAPI.smooth,718848,290,0.000403423254985755
+0,chromium,link-prefetch,events-fired,718848,182,0.00025318287037037036
+1,chromium,link-prefetch,events-fired-all,718848,182,0.00025318287037037036

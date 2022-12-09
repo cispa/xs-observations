@@ -1,0 +1,4 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,firefox,double-script,win.performanceAPI.smooth,714945,10320,0.014434676793319766
+0,firefox,double-script,events-fired,714945,7435,0.010399401352551595
+1,firefox,double-script,events-fired-all,714945,7435,0.010399401352551595

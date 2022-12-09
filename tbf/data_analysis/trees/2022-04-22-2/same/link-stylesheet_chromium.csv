@@ -1,0 +1,5 @@
+getComputedStyle,events-fired,events-fired-all,performanceAPI.smooth,0
+"rgb(0, 0, 0)",error,error,"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': ''}",263506
+"rgb(0, 0, 0)",load,load,"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': 'http/1.1'}",64047
+"rgb(0, 0, 0)",error,error,"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': 'http/1.1'}",30870
+"rgb(0, 0, 255)",load,load,"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'link', 'nextHopProtocol': 'http/1.1'}",828

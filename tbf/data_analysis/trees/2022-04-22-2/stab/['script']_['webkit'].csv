@@ -1,0 +1,7 @@
+,browser,inc_method,observation_method,count,diff,ratio
+5,webkit,script,windowHeight,718916,35542,0.049438321027769586
+1,webkit,script,events-fired,718916,318,0.00044233262300463473
+2,webkit,script,events-fired-all,718916,318,0.00044233262300463473
+4,webkit,script,performanceAPI.smooth,718916,176,0.0002448130240528796
+0,webkit,script,el-error,718916,70,9.736881638466803e-05
+3,webkit,script,hasOwnProperty-a,718916,4,5.563932364838173e-06

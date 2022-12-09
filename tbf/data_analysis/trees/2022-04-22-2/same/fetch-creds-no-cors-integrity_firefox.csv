@@ -1,0 +1,4 @@
+fetch_errormessage,events-fired,performanceAPI.smooth,0
+NetworkError when attempting to fetch resource.,"[{}, 'error']","{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'fetch', 'nextHopProtocol': 'http/1.1'}",327160
+NetworkError when attempting to fetch resource.,"[{}, 'error']","{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'fetch', 'nextHopProtocol': ''}",29952
+uncalled,{},uncalled,1

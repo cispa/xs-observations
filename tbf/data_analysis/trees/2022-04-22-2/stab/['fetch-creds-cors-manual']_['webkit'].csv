@@ -1,0 +1,4 @@
+,browser,inc_method,observation_method,count,diff,ratio
+2,webkit,fetch-creds-cors-manual,windowHeight,718748,35560,0.049474920278039035
+0,webkit,fetch-creds-cors-manual,events-fired,718748,220,0.00030608780824433596
+1,webkit,fetch-creds-cors-manual,fetch_errormessage,718748,220,0.00030608780824433596

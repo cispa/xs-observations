@@ -1,0 +1,6 @@
+width,events-fired,height,naturalHeight,naturalWidth,events-fired-all,performanceAPI.smooth,0
+24,error,24,0,0,"['loadstart', 'error', 'loadend']","{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'img', 'nextHopProtocol': 'http/1.1'}",317487
+24,error,24,0,0,"['loadstart', 'error', 'loadend']","{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'img', 'nextHopProtocol': ''}",29924
+50,load,50,50,50,"['loadstart', 'load', 'loadend']","{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'img', 'nextHopProtocol': 'http/1.1'}",8221
+0,uncalled,0,0,0,loadstart,uncalled,26
+0,error,0,0,0,"['loadstart', 'error', 'loadend']",uncalled,1

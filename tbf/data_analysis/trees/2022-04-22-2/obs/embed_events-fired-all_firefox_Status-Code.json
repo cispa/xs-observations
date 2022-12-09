@@ -1,0 +1,1 @@
+{"0": {"observation": "nan", "count": 330392}, "1": {"observation": "load", "count": 23190}, "2": {"observation": "['error', 'loadend']", "count": 1579}, "3": {"observation": "['load', 'loadend']", "count": 191}, "4": {"observation": "['load', 'load']", "count": 94}}

@@ -1,0 +1,14 @@
+performanceAPI.smooth,0
+"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'fetch', 'nextHopProtocol': 'http/1.1'}",327180
+"{'size': {'transferSize': 0, 'decodedBodySize': 0, 'encodedBodySize': 0}, 'timing': {'duration': >0, 'fetchStart': >0, 'redirectEnd': 0, 'redirectStart': 0, 'secureConnectionStart': 0}, 'initiatorType': 'fetch', 'nextHopProtocol': ''}",29942
+1-1,0
+836-836,0
+>0,0
+NetworkError when attempting to fetch resource.,0
+PaymentRequest is not defined,0
+"[{}, 'error']",0
+does not exist,0
+inapplicable,0
+"rgb(0, 0, 0)",0
+uncalled,0
+{},0
