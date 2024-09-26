@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Rautenstrauch
+    given-names: Jannis
+  - family-names: Pellegrino
+    given-names: Giancarlo
+  - family-names: Stock
+    given-names: Ben
+title: 'The Leaky Web: Automated Discovery of Cross-Site Information Leaks in Browsers and the Web'
+version: 1.0.0
+doi: 10.1109/SP46215.2023.10179311
+date-released: '2023-09-26'
+preferred-citation:
+  authors:
+    - family-names: Rautenstrauch
+      given-names: Jannis
+    - family-names: Pellegrino
+      given-names: Giancarlo
+    - family-names: Stock
+      given-names: Ben
+  title: 'The Leaky Web: Automated Discovery of Cross-Site Information Leaks in Browsers and the Web'
+  doi: 10.1109/SP46215.2023.10179311
+  type: conference-paper
+  year: '2023'
+  collection-title: IEEE Symposium on Security and Privacy
+  conference: {}
+  publisher: {}
