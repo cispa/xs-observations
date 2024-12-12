@@ -2,7 +2,7 @@
 name = "tbf"
 version = "0.1.0"
 description = ""
-authors = [""]
+authors = ["Jannis Rautenstrauch <jannis.rautenstrauch@cispa.de>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
@@ -19,9 +19,9 @@ pandas = "^1.4.0"
 jupyterlab = "^3.2.9"
 kaleido = "0.2.1"
 dtale = "^1.61.1"
-pandasgui = "^0.2.13"
+# pandasgui = "^0.2.13"
 publicsuffix2 = "^2.20191221"
-connectorx = "^0.2.4"
+# connectorx = "^0.2.4"
 ipywidgets = "^7.7.0"
 anytree = "^2.8.0"
 chefboost = "^0.0.17"

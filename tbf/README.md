@@ -19,7 +19,7 @@ Framework to test browsers comprehensively for information leaking observation c
 ## Parts of the Framework
 
 ### [Echo application/response space](echo/README.md)
-- Initialize the response space: `cd echo; poetry run python file_creator.py; poetry run python url_creator create True`.
+- Initialize the response space: `cd echo; poetry run python file_creator.py; poetry run python url_creator.py create True`.
 - To extend the used respponse space, update `url_creator.py`.
 - Start with `cd echo; poetry run uwsgi --ini uwsgi.ini` or `poetry run python manage.py runserver`.
 - Available at http://echo.org:8000/ and https://echo.org:44300/
